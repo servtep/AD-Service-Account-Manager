@@ -169,10 +169,4 @@ Establish a **Baseline Snapshot** (stored as JSON in `%APPDATA%\ADSvcAcctMgr`) a
 
 ---
 
-## 👤 Author
-
-Built and Maintained with ❤️ in France by **[SERVTEP](https://servtep.com)** | Lead Architect: **[Pchelnikau Artur](https://www.linkedin.com/in/artur-pchelnikau/)**
-
----
-
 <p align="center"><sub>AD Service Account Manager v1.0.0 · Built for enterprise identity security</sub></p>
