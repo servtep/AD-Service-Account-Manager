@@ -23,9 +23,9 @@ Built and Maintained with ❤️ in France by **[SERVTEP](https://servtep.com)**
 ## 📋 Table of Contents
 
 - [Strategic Overview](#-strategic-overview)
-- [Prerequisites](#prerequisites)
+- [Prerequisites](#-prerequisites)
 - [Quick Start](#-quick-start)
-- [CLI Reference](#cli-reference)
+- [CLI Reference](#-cli-reference)
 - [Modules](#-modules)
 - [Security Engine](#-security-engine)
 - [Audit & Compliance](#-audit--compliance)
@@ -44,7 +44,7 @@ Built and Maintained with ❤️ in France by **[SERVTEP](https://servtep.com)**
 
 ---
 
-## ⚙️ Prerequisites
+## 🔧 Prerequisites
 
 ### Required Modules
 | Module | Status | Purpose |
@@ -88,7 +88,7 @@ Built and Maintained with ❤️ in France by **[SERVTEP](https://servtep.com)**
 
 ---
 
-## 🖥️ CLI Reference
+## 💻 CLI Reference
 
 | Parameter | Values / Usage | Outcome |
 |---|---|---|
