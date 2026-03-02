@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="iE7QfA9P5D47xNoMHkd9lHWGWxP1ElzvHymM0FA_bxI" />
+
 # 🛡️ AD Service Account Manager
 ### Enterprise Identity Lifecycle & Security Governance for Active Directory
 
