@@ -10,7 +10,7 @@
 
 ## 👤 Author
 
-Built and Maintained with ❤️ in France by **[SERVTEP](https://servtep.com)** | Lead Architect: **[Pchelnikau Artur](https://www.linkedin.com/in/artur-pchelnikau/)**
+Built and Maintained in France by **[SERVTEP](https://servtep.com)** | Lead Architect: **[Pchelnikau Artur](https://www.linkedin.com/in/artur-pchelnikau/)**
 
 ---
 
